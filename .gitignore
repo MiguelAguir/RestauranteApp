@@ -1,0 +1,22 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de configuración sensibles
+appsettings.json
+*.user
+*.suo
+
+# Archivos de Visual Studio
+.vs/
+*.sln.user
+
+# Archivos de paquetes
+*.nupkg
+packages/
+
+# Carpeta de publicación
+publish/
+
+# Archivos de pruebas
+TestResults/
